@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(244, 79, 79);
+}
+
+p {
+    font-weight: 500;
+    font-size: larger;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+header section {
+    margin-right: 10%;
+}
+
+
+main section img {
+    margin-left: 30%;
+}
